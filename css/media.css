@@ -1,0 +1,377 @@
+@media (min-width: 280px) and (max-width: 320px) {
+    .middle_b_ep1 {
+        margin: 150px 0;
+    }
+
+    .ban_head1 {
+        font-size: 12px;
+    }
+
+    /* footer section start  */
+    .footer_content p {
+        font-size: 12px;
+    }
+
+    /* footer section end  */
+    /* ==========================================
+        2.Index page-2 english page design
+    =============================================*/
+    .middle_b_ep2 {
+        margin: 5px 0;
+        padding: 10px 30px;
+    }
+
+    /* ==========================================
+        3.Index page-3 english page design
+    =============================================*/
+    .middle_b_ep3 {
+        margin: 145px 0;
+        padding: 26px;
+    }
+
+    /* ==========================================
+        4.Index page-4 english page design
+    =============================================*/
+    .middle_b_ep4 {
+        margin: 130px 0;
+        padding: 12px;
+    }
+
+    /* ==========================================
+        5.Index page-5 english page design
+    =============================================*/
+    .middle_b_ep5 {
+        margin: 50px 0;
+        padding: 20px;
+    }
+
+    .ep5_btn {
+        margin-top: 10px;
+    }
+
+    /* ==========================================
+        6.Index page-7/8 english page design
+    =============================================*/
+    .middle_b_ep7 {
+        margin: 155px 0;
+        padding: 20px;
+    }
+
+    /* ==========================================
+        7.Index page-9 english page design
+    =============================================*/
+    .middle_b_ep9 {
+        margin: 167px 0;
+        padding: 20px;
+    }
+}
+
+@media (min-width: 360px) and (max-width: 375px) {
+    .middle_b_ep1 {
+        margin: 185px 0;
+    }
+
+    .footer_content {
+        margin-top: -4px;
+    }
+
+    /* ==========================================
+        2.Index page-2 english page design
+    =============================================*/
+
+    /* ==========================================
+        6.Index page-7/8 english page design
+    =============================================*/
+    .middle_b_ep7 {
+        margin: 192px 0;
+        padding: 20px;
+    }
+
+    /* ==========================================
+        7.Index page-7/8 english page design
+    =============================================*/
+    .middle_b_ep9 {
+        margin: 203px 0;
+        padding: 20px;
+    }
+
+}
+
+
+/* footer section end  */
+@media (min-width: 376px) and (max-width: 414px) {
+    .mainbox_ep1 {
+        max-width: 414px;
+    }
+
+    /* footer section start  */
+    footer {
+        max-width: 414px;
+    }
+
+    .footer_content {
+        margin-top: 3px;
+    }
+
+    /* footer section end  */
+    /* ==========================================
+        2.Index page-2 english page design
+    =============================================*/
+    .middle_b_ep2 {
+
+        padding: 15px 75px;
+        margin-top: 33%;
+    }
+
+    /* ==========================================
+        3.Index page-3 english page design
+    =============================================*/
+    .middle_b_ep3 {
+        padding: 51px;
+        margin: 210px 0;
+    }
+
+    /* ==========================================
+        4.Index page-4 english page design
+    =============================================*/
+    .middle_b_ep4 {
+        margin: 200px 0;
+    }
+
+    /* ==========================================
+        5.Index page-5 english page design
+    =============================================*/
+    .middle_b_ep5 {
+        margin: 112px 0;
+        padding: 60px;
+    }
+
+    /* ==========================================
+        6.Index page-7/8 english page design
+    =============================================*/
+    .middle_b_ep7 {
+        margin: 235px 0;
+        padding: 20px;
+    }
+
+    /* ==========================================
+        7.Index page-9 english page design
+    =============================================*/
+    .middle_b_ep9 {
+        margin: 248px 0;
+        padding: 20px;
+    }
+
+}
+
+
+@media (min-width: 415px) and (max-width: 425px) {
+    .middle_b_ep1 {
+        margin: 220px 0;
+    }
+
+    body {
+        background-image: url(../images/mainbg.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .mainbox_ep1 {
+        background-image: none;
+    }
+
+    .middle_b_ep2 {
+        margin-top: 20%;
+    }
+
+    /* footer section start  */
+    footer {
+        max-width: 1366px;
+    }
+
+    /* footer section end  */
+    /* ==========================================
+        2.Index page-2 english page design
+    =============================================*/
+    .middle_b_ep2 {
+        margin: 80px 0;
+
+    }
+}
+
+@media(min-width: 425px) and (max-width: 539.98px) {
+    body {
+        background-image: url(../images/mainbg.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .mainbox_ep1 {
+        background-image: none;
+    }
+
+    footer {
+        max-width: 1366px;
+    }
+}
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media(min-width: 540px) and (max-width: 575.98px) {
+    body {
+        background-image: url(../images/mainbg.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .mainbox_ep1 {
+        background-image: none;
+    }
+
+    .middle_b_ep2 {
+        margin-top: 20%;
+    }
+
+    /* footer section start  */
+    footer {
+        max-width: 1366px;
+    }
+
+    /* footer section end  */
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    body {
+        background-image: url(../images/mainbg.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .mainbox_ep1 {
+        background-image: none;
+    }
+
+    .middle_b_ep2 {
+        margin-top: 20%;
+    }
+
+    /* footer section start  */
+    footer {
+        max-width: 1366px;
+    }
+
+    /* footer section end  */
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    body {
+        background-image: url(../images/mainbg.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .mainbox_ep1 {
+        background-image: none;
+    }
+
+    .middle_b_ep1 {
+        margin-top: 80%;
+    }
+
+    .footer_content {
+        margin-top: 12px;
+    }
+
+    .middle_b_ep2 {
+        margin-top: 40%;
+    }
+
+    .middle_b_ep3 {
+        margin-top: 90%;
+    }
+
+    .middle_b_ep5 {
+        margin-top: 65%;
+    }
+
+    .middle_b_ep7 {
+        margin-top: 65%;
+    }
+
+    .middle_b_ep9 {
+        margin-top: 65%;
+    }
+
+    /* footer section start  */
+    footer {
+        max-width: 1366px;
+    }
+
+    /* footer section end  */
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    body {
+        background-image: url(../images/mainbg.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .mainbox_ep1 {
+        background-image: none;
+    }
+
+    .middle_b_ep1 {
+        margin-top: 120%;
+    }
+
+    .middle_b_ep2 {
+        margin-top: 40%;
+    }
+
+    .middle_b_ep3 {
+        margin-top: 90%;
+    }
+
+    .middle_b_ep4 {
+        margin-top: 90%;
+    }
+
+    .middle_b_ep5 {
+        margin-top: 90%;
+    }
+
+    .middle_b_ep7 {
+        margin-top: 100%;
+    }
+
+    .middle_b_ep9 {
+        margin-top: 100%;
+    }
+
+    /* footer section start  */
+    footer {
+        max-width: 1366px;
+    }
+
+    .footer_content {
+        margin-top: 15px;
+    }
+
+    /* footer section end  */
+}
+
+/*Extra  large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {}
+
+/*Extra extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {}
